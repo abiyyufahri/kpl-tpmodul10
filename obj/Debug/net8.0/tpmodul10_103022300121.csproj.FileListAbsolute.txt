@@ -34,3 +34,4 @@ E:\Developed Code\Collage Code\Semester 4\PKPL\tpmodul10_103022300121\obj\Debug\
 E:\Developed Code\Collage Code\Semester 4\PKPL\tpmodul10_103022300121\obj\Debug\net8.0\tpmodul10_103022300121.pdb
 E:\Developed Code\Collage Code\Semester 4\PKPL\tpmodul10_103022300121\obj\Debug\net8.0\tpmodul10_103022300121.genruntimeconfig.cache
 E:\Developed Code\Collage Code\Semester 4\PKPL\tpmodul10_103022300121\obj\Debug\net8.0\ref\tpmodul10_103022300121.dll
+E:\Developed Code\Collage Code\Semester 4\PKPL\tpmodul10_103022300121\obj\Debug\net8.0\tpmodul10_103022300121.sourcelink.json

@@ -1,5 +1,83 @@
 [
   {
+    "ContainingType": "tpmodul10_103022300121.Controllers.MahasiswaController",
+    "Method": "GetAll",
+    "RelativePath": "api/mahasiswa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[tpmodul10_103022300121.Mahasiswa, tpmodul10_103022300121, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "tpmodul10_103022300121.Controllers.MahasiswaController",
+    "Method": "Add",
+    "RelativePath": "api/mahasiswa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newMahasiswa",
+        "Type": "tpmodul10_103022300121.Mahasiswa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tpmodul10_103022300121.Controllers.MahasiswaController",
+    "Method": "GetByIndex",
+    "RelativePath": "api/mahasiswa/{index}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "tpmodul10_103022300121.Mahasiswa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "tpmodul10_103022300121.Controllers.MahasiswaController",
+    "Method": "Delete",
+    "RelativePath": "api/mahasiswa/{index}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "tpmodul10_103022300121.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
